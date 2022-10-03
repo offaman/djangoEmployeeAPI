@@ -1,0 +1,5 @@
+__pycache__
+migration
+./Employee/__pycache__
+./EmployeeApi/migration
+./EmployeeApi/__pycache__
